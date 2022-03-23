@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiamondD7
 - 👀 I’m interested in programming and making applications
-- 🌱 I’m currently learning c# and soon Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am currently learning HTML and CSS soon JavaScript
+- 💞️ I’m looking to collaborate on web development, as well as mobile development
 - 📫 How to reach me diamond.julian@gmail.com
 
 <!---
